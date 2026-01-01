@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.plxor.pccommercemobile",
+      "package_name": "com.expowebaddtest.app",
       "sha256_cert_fingerprints": [
-        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+        "D6:C0:8F:F7:0C:91:6D:27:29:22:A2:DD:2D:A2:07:DC:70:FA:AE:95:9E:43:4F:DC:6B:40:97:A4:7A:46:18:85"
       ]
     }
   }
